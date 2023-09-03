@@ -16,3 +16,6 @@
 
 ![bi4](https://user-images.githubusercontent.com/106017493/233773715-102cc1a1-5cd9-4ce6-98ac-2245f5e0f165.png)
 
+# PowerBI-Dashboard5:
+
+![image](https://github.com/redjules/PowerBI-Dashboards/assets/106017493/651cca71-4a06-4134-a93b-fd46b8b8ae28)
