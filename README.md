@@ -19,3 +19,7 @@
 # PowerBI-Dashboard5:
 
 ![image](https://github.com/redjules/PowerBI-Dashboards/assets/106017493/651cca71-4a06-4134-a93b-fd46b8b8ae28)
+
+# PowerBI-Dashboard6:
+
+![Screenshot 2024-06-29 171644](https://github.com/redjules/PowerBI-Dashboards/assets/106017493/e88e32b6-15f6-4761-b21f-496eafc60a43)
